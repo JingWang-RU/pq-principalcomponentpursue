@@ -1,13 +1,20 @@
+<snippet>
+  <content>
 # pq-principalcomponentpursue
-Created mainly by Jing Wang (jw998@rutgers.edu)
 
+## Created by 
+
+Jing Wang (jw998@rutgers.edu)
+
+## Reference
+```
 @article{Wang:2015:VDD:2796563.2796634,
  
 author = {Wang, Jing and Wang, Meng and Hu, Xuegang and Yan, Shuicheng},
  
 title = {Visual Data Denoising with a Unified Schatten-p Norm and Lq Norm Regularized Principal Component Pursuit},
 
- journal = {Pattern Recogn.},
+ journal = {Pattern Recognition},
 
  volume = {48},
 
@@ -18,3 +25,13 @@ title = {Visual Data Denoising with a Unified Schatten-p Norm and Lq Norm Regula
  pages = {3135--3144},
  
 } 
+```
+
+## Content
+
+* Comparative methods: SPCP, NSA
+* Data processing such as generating gaussian noise in the image
+* Evaluation tool: PSNR
+</content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
