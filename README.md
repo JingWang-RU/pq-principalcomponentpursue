@@ -23,7 +23,8 @@ title = {Visual Data Denoising with a Unified Schatten-p Norm and Lq Norm Regula
 
 * Comparative methods: SPCP, NSA
 * Data processing such as generating gaussian noise in the image
-* Evaluation tool: PSNR
+* Evaluation metric: PSNR
+
 </content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
