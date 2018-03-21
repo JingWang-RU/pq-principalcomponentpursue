@@ -5,7 +5,7 @@
 
 * Algorithm: `pqpcp.m`
 * Data processing functions: such as `generate_batch_gaussian_image.m` generating gaussian noise in the image,
-* Evaluation metric: PSNR,
+* Evaluation metric: `PSNR.m`,
 * Comparative methods: SPCP and NSA.
 
 ## Reference paper
